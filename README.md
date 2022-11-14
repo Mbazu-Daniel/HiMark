@@ -1,1 +1,1 @@
-HIMARK Python tkinter Project assigment
+This repo contains all HiMark Project and Assignment for the 6months orientation
